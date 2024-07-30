@@ -12,9 +12,9 @@ fn euler_phi(n: u128) -> u128 {
     let mut factors: Vec<u128> = prime_factors(n);
     factors.dedup();
 
-    let mut result = n;
+    let mut result: u128 = n;
     for factor in factors {
-        result = result * (factor - 1) / factor;
+        result = result * (factor - 1) / factor; 
     }
     return result;
 }
