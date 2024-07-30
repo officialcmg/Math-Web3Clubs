@@ -11,7 +11,7 @@ fn euler_phi(n: u128) -> u128 {
 
     let mut result: u128 = n;
     for factor in factors {
-        result = result * (factor - 1) / factor; //BTW The result is n - 1 for prime factors
+        result = result * (factor - 1) / factor; //BTW The result is n - 1 for prime numbers
     }
     return result;
 }
