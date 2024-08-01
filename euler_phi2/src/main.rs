@@ -1,10 +1,13 @@
 
 
 fn main() {
-    let number: u128 = 36;
+    let number: u128 = 7607;
     println!("Prime factors of {} are \n{:?}", number, prime_factors(number));
-    println!("Euler phi of {} is \n{}", number, euler_phi(number));
+    println!("Euler phi of {} is {}", number, euler_phi(number));
     
+    if euler_phi(number) == number - 1 {
+        println!("{} is PRIME", number);
+    }    
     
 }
 
