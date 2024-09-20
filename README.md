@@ -1,6 +1,6 @@
 # Cryptography Math Cohort Code Repository
 
-This repository contains my implementations of mathematical concepts as part of the cryptography math cohort at [Web3Clubs](https://web3clubs.io). The cohort curriculum covers a broad range of mathematical topics, progressing from foundational concepts to advanced techniques used in Web3 development.
+This repository contains my implementations of mathematical concepts as part of the cryptography math cohort at [Web3Clubs](https://x.com/web3clubs). The cohort curriculum covers a broad range of mathematical topics, progressing from foundational concepts to advanced techniques used in Web3 development.
 
 ## 🧑‍🎓 About the Cohort
 The Web3Clubs cryptography math cohort is a journey through essential mathematics for cryptography and Web3 applications. Topics covered in the cohort include:
