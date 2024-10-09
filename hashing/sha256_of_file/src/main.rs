@@ -25,7 +25,7 @@ fn sha256_file_hash(file_path: &str) -> io::Result<String> {
         hasher.update(&buffer[..n]);
     }
 
-    // Finalize the hash computation and return as hexadecimal string
+    // Finalize the hash computation and return as hex string
     Ok(format!("{:x}", hasher.finalize()))
 }
 
