@@ -23,4 +23,10 @@ An implementation in Rust to compute the prime factors of a given number.
 ### 2. **Euler's Totient Function**
 A function that calculates the Euler phi of a number using its prime factors. This is a key concept in number theory and cryptography.
 
+### 3. **File Hashing Using SHA-256**
+An implementation to hash files using the SHA-256 algorithm, commonly used in cryptographic applications to ensure integrity and data security.
+
+### 4. **Order of Direct Product Groups**
+An exploration of the order of direct product groups, an important concept in abstract algebra and group theory.
+
 
