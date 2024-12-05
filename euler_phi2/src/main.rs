@@ -19,7 +19,7 @@ fn euler_phi(n: u128) -> u128 {
 fn prime_factors(mut n: u128) -> Vec<u128> {
     let mut p: u128 = 2;
     let mut factors: Vec<u128> = Vec::new();
-    
+     
     if n <= 1 {
         return factors; // 0 and 1 are neither prime nor composite
     }
