@@ -29,4 +29,7 @@ An implementation to hash files using the SHA-256 algorithm, commonly used in cr
 ### 4. **Order of Direct Product Groups**
 An exploration of the order of direct product groups, an important concept in abstract algebra and group theory.
 
+### 5. **Scalar multiplication as used in Ethereum keypair generation**
+An exploration of scalar multiplication using secp256k1 to generate Ethereum account public keys from randomly generated private keys
+
 
